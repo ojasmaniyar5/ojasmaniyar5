@@ -4,7 +4,7 @@
 
 👨‍💻 All of my projects are available at https://github.com/ojasmaniyar5
 
-💬 Ask me about HTML, CSS, PHP
+💬 Ask me about HTML, CSS, PHP.
 
 📫 How to reach me ojasmaniyar25@gmail.com
 
