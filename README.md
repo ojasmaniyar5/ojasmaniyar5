@@ -6,7 +6,7 @@
 
 💬 Ask me about HTML, CSS, PHP.
 
-📫 How to reach me ojasmaniyar25@gmail.com
+📫 How to reach me ojasmaniyar25@gmail.com / https://linktr.ee/Ojasmaniyar
 
 📄 Know about my experiences http://ojasmaniyar.great-site.net/
 
