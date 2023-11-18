@@ -1,6 +1,6 @@
 🔭 I’m currently working on https://github.com/ojasmaniyar5/BooksGuide-Website
 
-🌱 I’m currently learning MongoDB, NodeJS, Python, Java, SpringBoot
+🌱 I’m currently learning Advance PHP, CCP, NodeJS, Python, Java, SpringBoot
 
 👨‍💻 All of my projects are available at https://github.com/ojasmaniyar5
 
