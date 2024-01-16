@@ -10,6 +10,13 @@
 
 🔗 Linkedin https://www.linkedin.com/in/ojasmaniyar25/
 
+🔗 Twitter https://twitter.com/OjasManiyar25
+
+🔗 Twitter https://twitter.com/OjasManiyar25
+
+🔗 Leetcode https://leetcode.com/ojasmaniyar25/
+
+🔗 Hackerrank https://www.hackerrank.com/ojasmaniyar25
 
 <!---
 ojasmaniyar5/ojasmaniyar5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
