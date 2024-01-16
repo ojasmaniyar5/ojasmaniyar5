@@ -1,4 +1,4 @@
-👋 Hi there! I'm Ojas Maniyar
+👋 Hi there! I'm Ojas Maniyar an Programming Enthusiast.
 
 Thanks for your interest, here is a quick story of me and this profile.
 
