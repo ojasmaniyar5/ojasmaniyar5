@@ -1,6 +1,6 @@
 🔭 I’m currently working on https://booksguidewebsite.godaddysites.com/
 
-🌱 I’m currently learning Advance PHP, CCP, NodeJS, Python, Java.
+🌱 I’m currently learning Advance PHP, CCP, OS, NW.
 
 👨‍💻 All of my projects are available at https://github.com/ojasmaniyar5
 
