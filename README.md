@@ -12,8 +12,6 @@
 
 🔗 Twitter https://twitter.com/OjasManiyar25
 
-🔗 Twitter https://twitter.com/OjasManiyar25
-
 🔗 Leetcode https://leetcode.com/ojasmaniyar25/
 
 🔗 Hackerrank https://www.hackerrank.com/ojasmaniyar25
