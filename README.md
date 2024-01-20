@@ -22,7 +22,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 
 🔎 PROJECTS :. BooksGuide Website || Personal Portfolio || Project Hub || TechNo BeeZ|Web Design Website || Weather API Web Application || Netflix Clone (Home Page).
-(Visit for more to see Project on Github Repository)
+(Visit to see more Project on Github Repository)
 
 
 📣 CERTIFICATION :. Zonal Level Research Project Competition in Aavishkar by SPPU || Front - End Web Development By Great Learning Academy.
