@@ -32,7 +32,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 📡Join Discord Discussion Community https://discord.gg/GPtxJbNM88
 
-🔗 Linkedin https://www.linkedin.com/in/ojasmaniyar25/  (500+ Connections)
+🔗 Linkedin https://www.linkedin.com/in/ojasmaniyar25/  (500+ Connections / 500+ Followers)
 
 🔗 Twitter https://twitter.com/OjasManiyar25
 
