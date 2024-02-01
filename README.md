@@ -18,7 +18,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 . I have worked as a Sales Associate T1 at Prompt Personnel Private Limited for the past 1 years. During my time there, I have worked on a variety of projects, including Marketing, Staff Management and Customer Support.
 . In Programming Experience, I have worked as a web developer for 1 month Internship's on various project under Prodigy InfoTech and currently working with CodeAlpha in 3 month internship by getting there internship's in web development framework.
 
-🏆 INTERNSHIPS :. Prodigy InfoTech || CodSoft Interns || CodeAlpha Interns || Bharat Interns || Innovixion Tech || LGM Interns.
+🏆 INTERNSHIPS :. Prodigy InfoTech Certification of Internship Completion || CodSoft Interns || CodeAlpha Interns || Bharat Interns || Innovixion Tech || LGM Interns.
 
 
 🔎 PROJECTS :. BooksGuide Website || Personal Portfolio || Project Hub || TechNo BeeZ|Web Design Website || Weather API Web Application || Netflix Clone (Home Page).
