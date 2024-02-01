@@ -25,7 +25,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 (Visit Github Repository to see more Project on Various framework)
 
 
-📣 CERTIFICATION :. Zonal Level Research Project Competition in Aavishkar by SPPU || Front - End Web Development By Great Learning Academy.
+📣 CERTIFICATION :. Prodigy InfoTech || Zonal Level Research Project Competition in Aavishkar by SPPU || Front - End Web Development By Great Learning Academy.
 
 
 🔭 I’m currently working on https://booksguidewebsite.godaddysites.com/
