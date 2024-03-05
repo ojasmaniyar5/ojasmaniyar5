@@ -1,4 +1,4 @@
-👋 Hi there! I'm Ojas Maniyar an ***Programming Enthusiast*** and ***Co-Founder of BooksGuide Website***.
+👋 Hi there! I'm ***Ojas Maniyar*** an ***Programming Enthusiast*** and ***Co-Founder of BooksGuide Website***.
 
 Thanks for your interest, here is a quick story of me and this profile.
 
