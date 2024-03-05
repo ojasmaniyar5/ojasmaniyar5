@@ -4,19 +4,15 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 
 🎯 OBJECTIVE :
-. A highly motivated and hardworking individual looking for a responsible role in a reputable organization.
-. Creating value for my prospective employer through my dedicated and diligent efforts.
-. I am seeking a role in a company where I can contribute my ideas and be mentored towards a successful career.
+. A highly motivated and hardworking individual looking for a responsible role in a reputable organization. Creating value for my prospective employer through my dedicated and diligent efforts. I am seeking a role in a company where I can contribute my ideas and be mentored towards a successful career.
 
 
 🎗️ SKILLS :
-. My technical skills include proficiency in programming languages such as HTML, CSS, PHP, PhpMyAdmin, DSA and C++. I am experienced in web development frameworks by developing BooksGuide Website, Techno beez website and Portfolio and many other projects. I am also knowledgeable in database management systems in MySQL. 
-. In addition to my technical skills, I possess Observation, Decision making, Communication, Multi-tasking, strong communication and teamwork skills.
+. My technical skills include proficiency in programming languages such as HTML, CSS, PHP, PhpMyAdmin, DSA and C++. I am experienced in web development frameworks by developing BooksGuide Website, Techno beez website and Portfolio and many other projects. I am also knowledgeable in database management systems in MySQL. In addition to my technical skills, I possess Observation, Decision making, Communication, Multi-tasking, strong communication and teamwork skills.
 
 
 🏷️ EXPERIENCE :
-. I have worked as a Sales Associate T1 at Prompt Personnel Private Limited for the past 1 years. During my time there, I have worked on a variety of projects, including Marketing, Staff Management and Customer Support.
-. In Programming Experience, I have worked as a web developer for 1 month Internship's on various project under Prodigy InfoTech, CodSoft Interns and currently working with CodeAlpha in 3 month internship by getting there internship's in web development framework.
+. I have worked as a Sales Associate T1 at Prompt Personnel Private Limited for the past 1 years. During my time there, I have worked on a variety of projects, including Marketing, Staff Management and Customer Support. In Programming Experience, I have worked as a web developer for 1 month Internship's on various project under Prodigy InfoTech, CodSoft Interns and currently working with CodeAlpha in 3 month internship by getting there internship's in web development framework.
 
 🏆 INTERNSHIPS :. Prodigy InfoTech || CodSoft Interns.
 
