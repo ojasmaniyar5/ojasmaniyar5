@@ -8,7 +8,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 
 🎗️ SKILLS :
-. My technical skills include proficiency in programming languages such as HTML, CSS, PHP, PhpMyAdmin, DSA and C++. I am experienced in web development frameworks by developing BooksGuide Website, Techno beez website and Portfolio and many other projects. I am also knowledgeable in database management systems in MySQL. In addition to my technical skills, I possess Observation, Decision making, Communication, Multi-tasking, strong communication and teamwork skills.
+. My technical skills include proficiency in programming languages such as HTML, CSS, PHP, PhpMyAdmin, DSA and C++. I am experienced in web development frameworks by developing BooksGuide Website, Techno beez website and Portfolio and many other projects. I am also knowledgeable in database management systems in MySQL, PostgrssSQL and MongoDB. In addition to my technical skills, I possess Observation, Decision making, Communication, Multi-tasking, strong communication and teamwork skills.
 
 
 🏷️ EXPERIENCE :
