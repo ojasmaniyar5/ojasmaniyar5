@@ -12,7 +12,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 
 🏷️ **EXPERIENCE** :
-. I have worked as a Sales Associate T1 at Prompt Personnel Private Limited for the past 1 years. During my time there, I have worked on a variety of projects, including Marketing, Staff Management and Customer Support. In Programming Experience, I have worked as a web developer for 1 month Internship's on various project under Prodigy InfoTech, CodSoft Interns and currently working with BooksGuide as a Co-Founder.
+. I have worked as a Sales Associate T1 at Prompt Personnel Private Limited for the past 1 years. During my time there, I have worked on a variety of projects, including Marketing, Staff Management and Customer Support. In Programming Experience, I have worked as a web developer for 1 month Internship's on various project under Prodigy InfoTech, CodSoft Interns and currently working on BooksGuide Website as a Web Developer and DataBase Manager.
 
 🏆 **INTERNSHIPS** : . Prodigy InfoTech || CodSoft Interns.
 
@@ -21,7 +21,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 (Visit Github Repository to see more Project on Various framework)
 
 
-📣 **CERTIFICATION** : 1st Prize Winner Certification in Project Competiton at PCCCS || Participant Certificate in Project Competiton at DY.Patil Pimpri || Digital bidge in IOT(Internet of Things) by InfySpringboard || Prodigy InfoTech Certification of Internship Completion || CodSoft Interns Certification of Internship Completion || Zonal Level Research Project Competition in Aavishkar by SPPU || Front - End Web Development By Great Learning Academy.
+📣 **CERTIFICATION** : 1st Prize Winner Certification in Project Competiton at PCCCS || Participant Certificate in Project Competiton at DY.Patil Pimpri || Digital bidge in IOT(Internet of Things) by InfySpringboard || Prodigy InfoTech : Certification of Internship Completion || CodSoft Interns : Certification of Internship Completion || Zonal Level Research Project Competition in Aavishkar by SPPU || Front - End Web Development Course Completion Certification By Great Learning Academy.
 
 
 🔭 I’m currently working on **https://booksguide-portfolio.vercel.app/**
