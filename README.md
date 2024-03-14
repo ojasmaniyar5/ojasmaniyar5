@@ -32,11 +32,11 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 📫 How to reach me **ojasmaniyar25@gmail.com** / **https://linktr.ee/Ojasmaniyar**
 
-📄 Know about my experiences **http://ojasmaniyar.great-site.net/**
+📄 Know about my experiences **https://ojasmaniyar-portfolio.vercel.app**
 
 📡Join Discord Discussion Community **https://discord.gg/GPtxJbNM88**
 
-🔗 Linkedin **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 500+ Followers)*
+🔗 Linkedin **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1K+ Followers)*
 
 🔗 Twitter **https://twitter.com/OjasManiyar25**
 
