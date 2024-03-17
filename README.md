@@ -24,7 +24,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 📣 **CERTIFICATION** : 1st Prize Winner Certification in Project Competiton at PCCCS || Participant Certificate in Project Competiton at DY.Patil Pimpri || Digital bidge in IOT(Internet of Things) by InfySpringboard || Prodigy InfoTech : Certification of Internship Completion || CodSoft Interns : Certification of Internship Completion || Zonal Level Research Project Competition in Aavishkar by SPPU || Front - End Web Development Course Completion Certification By Great Learning Academy.
 
 
-🔭 I’m currently working on **https://booksguide-portfolio.vercel.app/** || ***Conversational Recommender System for Stock Investment***
+🔭 I’m currently working on ***https://booksguide-portfolio.vercel.app/*** || ***https://github.com/ojasmaniyar5/HACKATHON-PCCOE-2024***.
 
 🌱 I’m currently learning *Advance PHP*, *CCP*, *OS*, *NW*.
 
