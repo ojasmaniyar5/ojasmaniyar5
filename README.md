@@ -28,7 +28,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 🌱 I’m currently learning *Advance PHP*, *CCP*, *OS*, *NW*.
 
-👨‍💻 All of my projects are available at **https://github.com/ojasmaniyar5**
+👨‍💻 All of my projects are available at **https://github.com/ojasmaniyar5?tab=repositories**
 
 📫 How to reach me **ojasmaniyar25@gmail.com** / **https://linktr.ee/Ojasmaniyar**
 
