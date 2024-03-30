@@ -4,6 +4,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 
 🎯 **OBJECTIVE** :
+
 . A highly motivated and hardworking individual looking for a responsible role in a reputable organization. Creating value for my prospective employer through my dedicated and diligent efforts. I am seeking a role in a company where I can contribute my ideas and be mentored towards a successful career.
 
 
