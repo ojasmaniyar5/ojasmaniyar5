@@ -17,7 +17,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 🏆 **INTERNSHIPS** : CodeAlpha Interns(Currently Working) || Prodigy InfoTech || CodSoft Interns.
 
 
-🔎 **PROJECTS** :. BooksGuide Website || Personal Portfolio || Project Hub || TechNo BeeZ(Web Design) Website || Weather API Web Application || Netflix Clone (Home Page).
+🔎 **PROJECTS** :. BooksGuide Website || BooksGuide Portfolio || Personal Portfolio || Project Hub || TechNo BeeZ(Web Design) Website || Weather API Web Application || Netflix Clone (Home Page).
 (Visit Github Repository to see more Project on Various framework)
 
 
