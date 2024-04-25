@@ -23,8 +23,10 @@ Thanks for your interest, here is a quick story of me and this profile.
 (Visit Github Repository to see more Project on Various framework)
 
 
-📣 **CERTIFICATION** : Participant Certification at National Level in hackathon Competiton under ANANTYA-2024 at PCCoE. || 1st Prize Winner Certification in Project Competiton at PCCCS || Participant Certificate in Project Competiton at DY.Patil Pimpri || Digital bidge in IOT(Internet of Things) by infosys in InfySpringboard || Prodigy InfoTech : Certification of Internship Completion || CodSoft Interns : Certification of Internship Completion ||Participant Certification at Zonal Level in Research Project Competition in Aavishkar by SPPU || Front - End Web Development Course Completion Certification By Great Learning Academy.
+📣 **CERTIFICATION** : Participant Certification at National Level in hackathon Competiton under ANANTYA-2024 at PCCoE. || 1st Prize Winner Certification in Project Competiton at PCCCS || Participant Certificate in Project Competiton at DY.Patil Pimpri || Prodigy InfoTech : Certification of Internship Completion || CodSoft Interns : Certification of Internship Completion ||Participant Certification at Zonal Level in Research Project Competition in Aavishkar by SPPU || Front - End Web Development Course Completion Certification By Great Learning Academy.
 
+
+🥇 **Digital Bidge** : Digital bidge in IOT(Internet of Things) by infosys in InfySpringboard.
 
 🔭 I’m currently working on ***https://booksguide-portfolio.vercel.app/***
 
