@@ -81,4 +81,4 @@ Thanks for your interest, here is a quick story of me and this profile.
 ojasmaniyar5/ojasmaniyar5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![ojas Maniyar LinkedIn Banner](https://github.com/ojasmaniyar5/ojasmaniyar5/assets/150362990/4df82842-95be-448c-b6b1-003854d483b8)
+![Ojas Maniyar Personal LinkedIn Banner](https://github.com/ojasmaniyar5/ojasmaniyar5/assets/150362990/22f46582-fd8d-4a7c-9961-ef853309f603)
