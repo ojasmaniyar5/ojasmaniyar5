@@ -59,28 +59,29 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 ------------------------------------------------------------------------------------------------------------------
 
-🔭 I’m currently working on ***https://booksguide-portfolio.vercel.app/***
 
-🌱 I’m currently learning *Core Java*, *Python*, *Cyber Security*, *OOSE*.
+🔭 I’m currently working on - ***https://booksguide-portfolio.vercel.app/***
 
-👨‍💻 All of my projects are available at **https://github.com/ojasmaniyar5?tab=repositories**
+🌱 I’m currently learning - *Core Java*, *Python*, *Cyber Security*, *OOSE*.
 
-📫 How to reach me **ojasmaniyar25@gmail.com** / **https://linktr.ee/Ojasmaniyar**
+👨‍💻 All of my projects are available at - **https://github.com/ojasmaniyar5?tab=repositories**
 
-📄 Know about my experiences **https://ojasmaniyar-portfolio.vercel.app**
+📫 How to reach me - **ojasmaniyar25@gmail.com** / **https://linktr.ee/Ojasmaniyar**
 
-📡Join Discord Discussion Community **https://discord.gg/GPtxJbNM88**
+📄 Know about my experiences - **https://ojasmaniyar-portfolio.vercel.app**
 
-🔗 Linkedin **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.1K+ Followers)*
+📡Join Discord Discussion Community - **https://discord.gg/GPtxJbNM88**
 
-🔗 Twitter **https://twitter.com/OjasManiyar25**
+🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.1K+ Followers)*
 
-🔗 Leetcode **https://leetcode.com/ojasmaniyar25/**
+🔗 Twitter - **https://twitter.com/OjasManiyar25**
 
-🔗 Hackerrank **https://www.hackerrank.com/ojasmaniyar25**
+🔗 Leetcode - **https://leetcode.com/ojasmaniyar25/**
 
-<!---
-ojasmaniyar5/ojasmaniyar5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 Hackerrank - **https://www.hackerrank.com/ojasmaniyar25**
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
 ![Ojas Maniyar Personal LinkedIn Banner](https://github.com/ojasmaniyar5/ojasmaniyar5/assets/150362990/22f46582-fd8d-4a7c-9961-ef853309f603)
