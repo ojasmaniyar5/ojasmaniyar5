@@ -15,7 +15,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 🎗️ ***SKILLS*** :
 - My technical skills include proficiency in programming languages such as HTML, CSS, PHP, PhpMyAdmin, DSA and C++.
-- I am experienced in web development frameworks by developing BooksGuide Website, Techno Beez Website and Portfolio and many other projects.
+- I am experienced in web development frameworks by developing [BooksGuide Website](https://github.com/ojasmaniyar5/BooksGuide-Website-Official), Techno Beez Website and Portfolio and many other projects.
 - I am also knowledgeable in database management systems in MySQL.
 - In addition to my technical skills, I possess Observation, Decision making, Strong Communication, Multi-tasking and teamwork skills.
 
@@ -33,13 +33,13 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 
 🔎 ***PROJECTS*** :
-- [BooksGuide (Website)](https://github.com/ojasmaniyar5/BooksGuide-Website-Official).
+- BooksGuide (Website).
 - BooksGuide (Portfolio).
 - Personal Portfolio.
 - Project Hub(Website).
 - TechNo BeeZ(Web Design) Website.
 - Weather API Web (Application/Website).
-- [Netflix Clone Home Page](https://github.com/ojasmaniyar5/Netflix_Clone-Home-Page-).
+- Netflix Clone Home Page.
 (Visit Github Repository to see more Project on Various framework)
 
 
