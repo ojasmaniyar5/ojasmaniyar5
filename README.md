@@ -61,7 +61,7 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 🔭 I’m currently working on ***https://booksguide-portfolio.vercel.app/***
 
-🌱 I’m currently learning *Advance PHP*, *CCP*, *OS*, *NW*.
+🌱 I’m currently learning *Core Java*, *Python*, *Cyber Security*, *OOSE*.
 
 👨‍💻 All of my projects are available at **https://github.com/ojasmaniyar5?tab=repositories**
 
