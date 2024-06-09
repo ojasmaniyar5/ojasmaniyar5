@@ -68,11 +68,9 @@ Thanks for your interest, here is a quick story of me and this profile.
 
 📫 How to reach me - **ojasmaniyar25@gmail.com** / **https://linktr.ee/Ojasmaniyar**
 
-📄 Know about my experiences - **https://ojasmaniyar-portfolio.vercel.app**
+📄 View my PortFolio - **https://ojasmaniyar-portfolio.vercel.app**
 
-📡Join Discord Discussion Community - **https://discord.gg/GPtxJbNM88**
-
-🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.1K+ Followers)*
+🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.2K+ Followers)*
 
 🔗 Twitter - **https://twitter.com/OjasManiyar25**
 
@@ -81,6 +79,8 @@ Thanks for your interest, here is a quick story of me and this profile.
 🔗 Hackerrank - **https://www.hackerrank.com/ojasmaniyar25**
 
 🔗 StackOverFlow - **https://stackoverflow.com/users/25405308/ojas-maniyar**
+
+🔗 Medium - **https://medium.com/@ojasmaniyar25**
 
 ------------------------------------------------------------------------------------------------------------------
 
