@@ -1,6 +1,6 @@
 # ***👋 Hi there! I'm Ojas Maniyar.***
 
-An ***Programming Enthusiast*** and ***Co-Founder of BooksGuide.***
+Preparing for **NIMCET** || Co-Founder of **BooksGuide** || Ex-Intern at **Prodigy InfoTech** || **Programming Enthusiast** || Pursuing **BCA** at **Audyogik Tantra Shikshan Sanstha**.
 
 Thanks for your interest, here is a quick story of me and this profile.
 
