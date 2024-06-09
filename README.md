@@ -12,10 +12,10 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || Stock Investor at **
 
 
 🎗️ ***SKILLS*** :
-- My technical skills include proficiency in programming languages such as HTML, CSS, PHP, PhpMyAdmin, DSA and C++.
+- My technical skills include proficiency in programming languages such as HTML, CSS, PHP, PhpMyAdmin, DSA, C++, JAVA and Python.
 - I am experienced in web development frameworks by developing [BooksGuide Website](https://github.com/ojasmaniyar5/BooksGuide-Website-Official), [Techno Beez Website](https://github.com/ojasmaniyar5/TechNo-BeeZ) and [Portfolio](https://github.com/ojasmaniyar5/Ojas_Maniyar-Portfolio/tree/main/Portfolio%20Official) and many other projects.
 - I am also knowledgeable in database management systems in MySQL.
-- In addition to my technical skills, I possess Observation, Decision making, Strong Communication, Multi-tasking and teamwork skills.
+- In addition to my skills, I possess Observation, Decision making, Strong Communication, Multi-tasking and teamwork skills.
 
 
 🏷️ ***EXPERIENCE*** :
