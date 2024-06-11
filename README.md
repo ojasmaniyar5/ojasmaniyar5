@@ -4,10 +4,8 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || Stock Investor at **
 
 
 🎯 ***OBJECTIVE*** :
-- To build a professional career by working with motivated and dedicated people in a very competitive and structured organizational environment.
-- Seeking a marketing or entry-level position where my education and experience will be fully utilized with the ability to grow with the company.
-- Creating value for my prospective employer through my dedicated and diligent efforts.
-- I am seeking a role in a Company where I can contribute my ideas and be mentored towards a successful career.
+- To build a professional career by working with motivated and dedicated people in a very competitive and structured organizational environment to creating value through my dedicated and diligent efforts.
+- Seeking a marketing or entry-level position where my education and experience will be fully utilized with the ability to grow with the company and contribute my ideas and be mentored towards a successful career.
 - To secure a *enthusiastic* role in a dynamic Company that offers opportunities for professional growth and advancement.
 
 
