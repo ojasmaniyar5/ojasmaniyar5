@@ -34,7 +34,6 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || Stock Investor at **
 - Project Hub(Website).
 - TechNo BeeZ(Web Design) Website.
 - Weather API Web (Application/Website).
-- Netflix Clone Home Page.
 (Visit Github Repository to see more Project on Various framework)
 
 
