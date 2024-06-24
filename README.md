@@ -20,7 +20,7 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || Stock Investor at **
 - I have worked as a Sales Associate T1 at Prompt Personnel Private Limited for the past 1 years during April-2022 to April-2023.
 - During my time there, I have worked on a variety of projects, including Marketing, Staff Management and Customer Support.
 - In Programming Experience, I have worked as a web developer for 1 month Internship's on various project under Prodigy InfoTech and CodSoft Interns.
-- Currently working as Stock Investor at [BC Partners](https://www.linkedin.com/company/bc-partners)(US Company) and On BooksGuide Website as a Back-End Developer and DataBase Administrator.
+- Currently working on BooksGuide Website as a Back-End Developer and DataBase Administrator by using various frameworks and tools.
 
 🏆 ***INTERNSHIPS*** : 
 - Prodigy InfoTech.
