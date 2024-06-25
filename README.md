@@ -1,6 +1,6 @@
 # ***👋 Hi there! I'm Ojas Maniyar.***
 
-Preparing for **NIMCET** || Co-Founder of **BooksGuide** || Stock Investor at **BC Partners** || Ex-Intern at **Prodigy InfoTech** || **Programming Enthusiast** || Pursuing **BCA** at **Audyogik Tantra Shikshan Sanstha.**
+Preparing for **NIMCET** || Co-Founder of **BooksGuide** || Stock Investor at **BC Partners** || **Programming Enthusiast** || Pursuing **BCA** at **Audyogik Tantra Shikshan Sanstha.**
 
 
 🎯 ***OBJECTIVE*** :
