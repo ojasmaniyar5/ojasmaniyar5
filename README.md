@@ -10,16 +10,21 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 
 
 🎗️ ***SKILLS*** :
-- My technical skills include proficiency in programming languages such as HTML-CSS, JavaScript, PHP, PhpMyAdmin, DSA, C++, JAVA and Python.
-- I am experienced in web development frameworks by developing [BooksGuide Website](https://github.com/ojasmaniyar5/BooksGuide-Website-Official), [Techno Beez Website](https://github.com/ojasmaniyar5/TechNo-BeeZ) and [Portfolio](https://github.com/ojasmaniyar5/Ojas_Maniyar-Portfolio/tree/main/Portfolio%20Official) and many other projects.
+- My technical skills include proficiency in programming languages such as HTML-CSS, JavaScript, PHP, DSA, C++, R programming, JAVA and Python.
 - I am also knowledgeable in database management systems in MySQL.
+- I am experienced in web development frameworks by developing [BooksGuide Website](https://github.com/ojasmaniyar5/BooksGuide-Website-Official), [Techno Beez Website](https://github.com/ojasmaniyar5/TechNo-BeeZ) and [Portfolio](https://github.com/ojasmaniyar5/Ojas_Maniyar-Portfolio/tree/main/Portfolio%20Official) and many other projects.
 - In addition to my skills, I possess Observation, Decision making, Strong Communication, Multi-tasking and teamwork skills.
 
 
 🏷️ ***EXPERIENCE*** :
-- I have worked as a Sales Associate T1 at Prompt Personnel Private Limited for the past 1 years during April-2022 to April-2023.
-- During my time there, I have worked on a variety of projects, including Marketing, Staff Management and Customer Support.
-- In Programming Experience, I have worked as a web developer for 1 month Internship's on various project under Prodigy InfoTech and CodSoft Interns.
+- *In Back Office Experience*,
+- Over the past year as a Sales Associate T1 at Prompt Personnel Private Limited, I have worked on various projects involving marketing, staff management, and customer support.
+- My role included promoting products, managing team schedules, and assisting customers to ensure a high level of service and satisfaction. 
+- *In Programming Experience*,
+- As a Web Development Intern at Prodigy InfoTech and  CodSoft Interns, I developed and maintained responsive web applications using HTML, CSS, JavaScript and PHP languages.
+- I worked on new features, optimized code for performance, and ensured cross-browser compatibility.
+- I created a user authentication system that improved security for users and reduced page load times.
+- I gained experience with MySQL and GitHub, and improved my teamwork skills by participating in their Frameworks.
 - Currently working on BooksGuide Website as a Back-End Developer and DataBase Administrator by using various frameworks and tools.
 
 🏆 ***INTERNSHIPS*** : 
