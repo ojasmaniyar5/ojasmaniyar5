@@ -34,9 +34,10 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 
 
 🔎 ***PROJECTS*** :
-- BooksGuide (Website).
-- BooksGuide (Portfolio).
 - Personal Portfolio.
+- BooksGuide (Website)[In Process].
+- BooksGuide (Portfolio).
+- Stock Trader's Hub(Website)[In Process].
 - Project Hub(Website).
 - TechNo BeeZ(Web Design) Website.
 - Weather API Web (Application/Website).
