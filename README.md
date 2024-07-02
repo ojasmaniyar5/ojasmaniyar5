@@ -65,7 +65,7 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 
 📄 View my PortFolio - **https://ojasmaniyar-portfolio.vercel.app**
 
-🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.2K+ Followers)*
+🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.3K+ Followers)*
 
 🔗 Twitter - **https://twitter.com/OjasManiyar25**
 
