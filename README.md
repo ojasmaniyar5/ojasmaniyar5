@@ -25,6 +25,7 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 - I worked on new features, optimized code for performance, and ensured cross-browser compatibility.
 - I created a user authentication system that improved security for users and reduced page load times.
 - I gained experience with MySQL and GitHub, and improved my teamwork skills by participating in their Frameworks.
+- *Current Work*,
 - Currently working on BooksGuide Website as a Back-End Developer and DataBase Administrator by using various frameworks and tools.
 
 🏆 ***INTERNSHIPS*** : 
