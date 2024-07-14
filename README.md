@@ -17,7 +17,7 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 
 
 🏷️ ***EXPERIENCE*** :
-- *In Back Office Experience*,
+- *<u>In Back Office Experience</u>*,
 - Over the past year as a Sales Associate T1 at Prompt Personnel Private Limited, I have worked on various projects involving marketing, staff management, and customer support.
 - My role included promoting products, managing team schedules, and assisting customers to ensure a high level of service and satisfaction. 
 - *In Programming Experience*,
