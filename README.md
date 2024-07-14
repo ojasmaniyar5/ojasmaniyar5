@@ -29,8 +29,9 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 - Currently working on BooksGuide Website as a Back-End Developer and DataBase Administrator by using various frameworks and tools.
 
 🏆 ***INTERNSHIPS*** : 
-- Prodigy InfoTech.
-- CodSoft Interns.
+- CodeAlpha Interns.(3 Months)
+- Prodigy InfoTech.(1 Months)
+- CodSoft Interns.(1 Months)
 
 
 🔎 ***PROJECTS*** :
