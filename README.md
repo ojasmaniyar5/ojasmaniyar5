@@ -30,8 +30,8 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 
 🏆 ***INTERNSHIPS*** : 
 - CodeAlpha Interns.(3 Months)
-- Prodigy InfoTech.(1 Months)
-- CodSoft Interns.(1 Months)
+- Prodigy InfoTech.(1 Month)
+- CodSoft Interns.(1 Month)
 
 
 🔎 ***PROJECTS*** :
