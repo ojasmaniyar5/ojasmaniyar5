@@ -21,7 +21,7 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 - Over the past year as a Sales Associate T1 at Prompt Personnel Private Limited, I have worked on various projects involving marketing, staff management, and customer support.
 - My role included promoting products, managing team schedules, and assisting customers to ensure a high level of service and satisfaction. 
 - *In Programming Experience*,
-- As a Web Development Intern at Prodigy InfoTech and  CodSoft Interns, I developed and maintained responsive web applications using HTML, CSS, JavaScript and PHP languages.
+- As a Web Development Intern at Prodigy InfoTech, CodSoft Interns and CodeAlpha Interns, I developed and maintained responsive web applications using HTML, CSS, JavaScript and PHP languages.
 - I worked on new features, optimized code for performance, and ensured cross-browser compatibility.
 - I created a user authentication system that improved security for users and reduced page load times.
 - I gained experience with MySQL and GitHub, and improved my teamwork skills by participating in their Frameworks.
