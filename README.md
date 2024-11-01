@@ -61,8 +61,6 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 
 ------------------------------------------------------------------------------------------------------------------
 
-📈 Stock Investor at - [BC Partners.](https://www.linkedin.com/company/bc-partners)
-
 🔭 I’m currently working on - ***https://booksguide-portfolio.vercel.app/***
 
 🌱 I’m currently learning - *Core Java*, *Python*, *Cyber Security*, *OOSE*.
@@ -73,7 +71,7 @@ Preparing for **NIMCET** || Co-Founder of **BooksGuide** || **Ex-Intern at Prodi
 
 📄 View my PortFolio - **https://ojasmaniyar-portfolio.vercel.app**
 
-🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.3K+ Followers)*
+🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.5K+ Followers)*
 
 🔗 Twitter - **https://twitter.com/OjasManiyar25**
 
