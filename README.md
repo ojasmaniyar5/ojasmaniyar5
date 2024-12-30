@@ -1,6 +1,6 @@
 # ***👋 Hi there! I'm Ojas Maniyar.***
 
-Preparing for **MCA-CET & NIMCET** || Co-Founder of **BooksGuide** || **Cyber Security and Ethical Hacking** || Passionate **Programmer** || **Tech Enthusiast** || **Lifelong Learner** || **Ex-PPPL** || Pursuing **BCA** at **Audyogik Tantra Shikshan Sanstha.**
+Preparing for **MCA-CET & NIMCET** || Co-Founder of **BooksGuide** || Passionate in **Cyber Security and Ethical Hacking** and **Programming** || **Tech Enthusiast** || **Lifelong Learner** || **Ex-PPPL** || Pursuing **BCA** at **Audyogik Tantra Shikshan Sanstha.**
 
 
 🎯 ***OBJECTIVE*** :
