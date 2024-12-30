@@ -2,6 +2,12 @@
 
 Preparing for **MCA-CET & NIMCET** || Co-Founder of **BooksGuide** || Passionate in **Cyber Security and Ethical Hacking** and **Full Stack Development** || **Tech Enthusiast** || **Lifelong Learner** || **Ex-PPPL** || Pursuing **BCA** at **Audyogik Tantra Shikshan Sanstha.**
 
+🚩 ***SUMMARY***
+- Currently expanding my skills in cybersecurity and ethical hacking, focusing on identifying vulnerabilities and protecting digital systems. Passionate about learning the latest in cyber threats and defense strategies.
+- With a deep love for coding and a relentless curiosity, I thrive in exploring new technologies and solving complex problems. 
+- Skilled in multiple programming languages, I enjoy collaborating with others to create innovative solutions.
+- Constantly learning and adapting, I’m driven by a desire to turn ideas into impactful software.
+
 
 🎯 ***OBJECTIVE*** :
 - To build a professional career by working with motivated and dedicated people in a very competitive and structured organizational environment to creating value through my dedicated and diligent efforts.
