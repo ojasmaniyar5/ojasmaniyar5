@@ -77,7 +77,7 @@ Preparing for **MCA-CET & NIMCET** || Co-Founder of **BooksGuide** || Passionate
 
 📄 View my PortFolio - **https://ojasmaniyar-portfolio.vercel.app**
 
-🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.5K+ Followers)*
+🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.6K+ Followers)*
 
 🔗 Twitter - **https://twitter.com/OjasManiyar25**
 
