@@ -69,7 +69,7 @@ Preparing for **MCA-CET & NIMCET** || Co-Founder of **BooksGuide** || Passionate
 
 🔭 I’m currently working on - ***https://booksguide-portfolio.vercel.app/***
 
-🌱 I’m currently learning - *Core Java*, *Python*, *Cyber Security*, *OOSE*.
+🌱 I’m currently learning - *Python Full Stack Development*.
 
 👨‍💻 All of my projects are available at - **https://github.com/ojasmaniyar5?tab=repositories**
 
