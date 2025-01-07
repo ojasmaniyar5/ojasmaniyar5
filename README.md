@@ -1,6 +1,6 @@
 # ***👋 Hi there! I'm Ojas Maniyar.***
 
-Preparing for **Preparing for MCA-CET & NIMCET** || Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Development** || **Tech Enthusiast || Lifelong Learner || Ex - Prodigy InfoTech || Ex - Prompt Personnel Private Limited.**
+Preparing for **MCA-CET & NIMCET** || Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Development** || **Tech Enthusiast || Lifelong Learner || Ex - Prodigy InfoTech || Ex - Prompt Personnel Private Limited.**
 
 🚩 ***SUMMARY*** :
 - Currently expanding my skills in cybersecurity and ethical hacking, focusing on identifying vulnerabilities and protecting digital systems. Passionate about learning the latest in cyber threats and defense strategies.
