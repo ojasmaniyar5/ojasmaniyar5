@@ -61,7 +61,7 @@ Preparing for **MCA-CET** || Passionate in **Cyber Security, Ethical Hacking** a
         - Added features, improved security, and optimized performance for faster loading.  
         - Worked with MySQL and GitHub while collaborating with teams to deliver projects.  
 
--*Sales Associate*  
+*Sales Associate*  
     -T1, Prompt Personnel Private Limited (2022-2023)  
         - Led marketing, team management, and customer support tasks, boosting sales and customer satisfaction.  
         - Promoted products and ensured smooth daily operations with effective team coordination.  
