@@ -16,11 +16,36 @@ Preparing for **MCA-CET** || Passionate in **Cyber Security, Ethical Hacking** a
 
 
 🎗️ ***SKILLS*** :
-- My technical skills include proficiency in programming languages such as HTML-CSS, JavaScript, PHP, DSA, C++, R programming, JAVA and Python.
-- I am also knowledgeable in database management systems in MySQL.
-- I am experienced in web development frameworks by developing [BooksGuide Website](https://github.com/ojasmaniyar5/BooksGuide-Website-Official), [Techno Beez Website](https://github.com/ojasmaniyar5/TechNo-BeeZ) and [Portfolio](https://github.com/ojasmaniyar5/Ojas_Maniyar-Portfolio/tree/main/Portfolio%20Official) and many other projects.
-- In addition to my skills, I possess Observation, Decision making, Strong Communication, Multi-tasking and teamwork skills.
+**Hard Skills**
+1. Programming languages:
+    - HTML5.
+    - CSS3.
+    - JavaScript.
+    - Server-side languages like PHP, Python, and Java.
+2. Frameworks:
+    - Front-end frameworks like React.
+    - Back-end frameworks like Django.
+3. Databases:
+    - Relational databases like MySQL.
+4. Version control systems:
+    - Git
+5. Web development tools:
+    - Code editors like Visual Studio Code, Sublime Text.
+    - Browser developer tools like Chrome DevTools and Firefox Developer Edition.
+6. API design and development:
+    - API security and authentication.
+    - API documentation and testing.
+7. Web security:
+    - OWASP Top 10 vulnerabilities.
+    - Secure coding practices.
+    - Web application firewalls and security testing.
 
+**Soft Skills**
+1. Communication:
+2. Teamwork and collaboration.
+3. Problem-solving and debugging.
+4. Adaptability and continuous learning.
+5. Time management and organization.
 
 🏷️ ***EXPERIENCE*** :
 - *<u>In Back Office Experience</u>*,
