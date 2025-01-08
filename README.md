@@ -49,23 +49,24 @@ Preparing for **MCA-CET** || Passionate in **Cyber Security, Ethical Hacking** a
 5. Time management and organization.
 
 🏷️ ***EXPERIENCE*** :
-*Sales Associate*  
-T1, Prompt Personnel Private Limited (20XX-20XX)  
-- Led marketing, team management, and customer support tasks, boosting sales and customer satisfaction.  
-- Promoted products and ensured smooth daily operations with effective team coordination.  
-
-*Web Development Intern*  
-Prodigy InfoTech, CodSoft, and CodeAlpha (20XX-20XX)  
-- Built and maintained websites using HTML, CSS, JavaScript, and PHP.  
-- Added features, improved security, and optimized performance for faster loading.  
-- Worked with MySQL and GitHub while collaborating with teams to deliver projects.  
 
 *Back-End Developer & Database Administrator*  
-BooksGuide Website (Current)  
-- Develop and manage website functions, ensuring a smooth user experience.  
-- Handle back-end coding and database systems to maintain efficient operations.  
+    -BooksGuide Website (Current)  
+        - Develop and manage website functions, ensuring a smooth user experience.  
+        - Handle back-end coding and database systems to maintain efficient operations.
+        
+*Web Development Intern*  
+    -Prodigy InfoTech, CodSoft, and CodeAlpha (2024-2024)  
+        - Built and maintained websites using HTML, CSS, JavaScript, and PHP.  
+        - Added features, improved security, and optimized performance for faster loading.  
+        - Worked with MySQL and GitHub while collaborating with teams to deliver projects.  
 
+-*Sales Associate*  
+    -T1, Prompt Personnel Private Limited (2022-2023)  
+        - Led marketing, team management, and customer support tasks, boosting sales and customer satisfaction.  
+        - Promoted products and ensured smooth daily operations with effective team coordination.  
 
+  
 🏆 ***INTERNSHIPS*** : 
 - CodeAlpha Interns.(4 Months)
 - Prodigy InfoTech.(1 Month)
