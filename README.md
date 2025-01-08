@@ -1,6 +1,6 @@
 # ***👋 Hi there! I'm Ojas Maniyar.***
 
-Preparing for **MCA-CET** || Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Development** || **Tech Enthusiast || Lifelong Learner || Ex - Prodigy InfoTech || Ex - Prompt Personnel Private Limited.**
+Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Development** || **Tech Enthusiast || Lifelong Learner || Ex - Prodigy InfoTech || Ex - Prompt Personnel Private Limited.**
 
 🚩 ***SUMMARY*** :
 - Currently expanding my skills in cybersecurity and ethical hacking, focusing on identifying vulnerabilities and protecting digital systems. Passionate about learning the latest in cyber threats and defense strategies.
@@ -65,12 +65,6 @@ Preparing for **MCA-CET** || Passionate in **Cyber Security, Ethical Hacking** a
     -T1, Prompt Personnel Private Limited (2022-2023)  
         - Led marketing, team management, and customer support tasks, boosting sales and customer satisfaction.  
         - Promoted products and ensured smooth daily operations with effective team coordination.  
-
-  
-🏆 ***INTERNSHIPS*** : 
-- CodeAlpha Interns.(4 Months)
-- Prodigy InfoTech.(1 Month)
-- CodSoft Interns.(1 Month)
 
 
 🔎 ***PROJECTS*** :
