@@ -42,23 +42,29 @@ Preparing for **MCA-CET** || Passionate in **Cyber Security, Ethical Hacking** a
     - Web application firewalls and security testing.
 
 **Soft Skills**
-1. Communication:
+1. Communication.
 2. Teamwork and collaboration.
 3. Problem-solving and debugging.
 4. Adaptability and continuous learning.
 5. Time management and organization.
 
 🏷️ ***EXPERIENCE*** :
-- *<u>In Back Office Experience</u>*,
-- Over the past year as a Sales Associate T1 at Prompt Personnel Private Limited, I have worked on various projects involving marketing, staff management, and customer support.
-- My role included promoting products, managing team schedules, and assisting customers to ensure a high level of service and satisfaction. 
-- *In Programming Experience*,
-- As a Web Development Intern at Prodigy InfoTech, CodSoft Interns and CodeAlpha Interns, I developed and maintained responsive web applications using HTML, CSS, JavaScript and PHP languages.
-- I worked on new features, optimized code for performance, and ensured cross-browser compatibility.
-- I created a user authentication system that improved security for users and reduced page load times.
-- I gained experience with MySQL and GitHub, and improved my teamwork skills by participating in their Frameworks.
-- *Current Work*,
-- Currently working on BooksGuide Website as a Back-End Developer and DataBase Administrator by using various frameworks and tools.
+*Sales Associate*  
+T1, Prompt Personnel Private Limited (20XX-20XX)  
+- Led marketing, team management, and customer support tasks, boosting sales and customer satisfaction.  
+- Promoted products and ensured smooth daily operations with effective team coordination.  
+
+*Web Development Intern*  
+Prodigy InfoTech, CodSoft, and CodeAlpha (20XX-20XX)  
+- Built and maintained websites using HTML, CSS, JavaScript, and PHP.  
+- Added features, improved security, and optimized performance for faster loading.  
+- Worked with MySQL and GitHub while collaborating with teams to deliver projects.  
+
+*Back-End Developer & Database Administrator*  
+BooksGuide Website (Current)  
+- Develop and manage website functions, ensuring a smooth user experience.  
+- Handle back-end coding and database systems to maintain efficient operations.  
+
 
 🏆 ***INTERNSHIPS*** : 
 - CodeAlpha Interns.(4 Months)
