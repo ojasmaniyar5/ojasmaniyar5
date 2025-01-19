@@ -25,7 +25,7 @@ Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Develo
     - Server-side languages like PHP, Python, and Java.
 2. Frameworks:
     - Front-end framework - ReactJS.
-    - Back-end framework - Django.
+    - Back-end framework - Django, Flask.
 3. Databases:
     - Relational database - MySQL, Oracle.
 4. Version control systems:
