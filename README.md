@@ -24,14 +24,14 @@ Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Develo
     - JavaScript.
     - Server-side languages like PHP, Python, and Java.
 2. Frameworks:
-    - Front-end frameworks like ReactJS.
-    - Back-end frameworks like Django.
+    - Front-end framework - ReactJS.
+    - Back-end framework - Django.
 3. Databases:
-    - Relational databases like MySQL.
+    - Relational database - MySQL, Oracle.
 4. Version control systems:
     - Git
 5. Web development tools:
-    - Code editors like Visual Studio Code, Sublime Text.
+    - Code editors like Visual Studio Code, Sublime Text, IDEL.
     - Browser developer tools like Chrome DevTools and Firefox Developer Edition.
 6. API design and development:
     - API security and authentication.
