@@ -29,7 +29,8 @@ Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Develo
 3. Databases:
     - Relational database - MySQL, Oracle.
 4. Version control systems:
-    - Git
+    - Git.
+    - GitHub.
 5. Web development tools:
     - Code editors like Visual Studio Code, Sublime Text, IDEL.
     - Browser developer tools like Chrome DevTools and Firefox Developer Edition.
