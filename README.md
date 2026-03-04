@@ -105,7 +105,7 @@ Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Develo
 
 📄 View my PortFolio - **https://ojasmaniyar-portfolio.vercel.app**
 
-🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.6K+ Followers)*
+🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.8K+ Followers)*
 
 🔗 Twitter - **https://twitter.com/OjasManiyar25**
 
