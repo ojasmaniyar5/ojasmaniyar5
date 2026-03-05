@@ -103,7 +103,7 @@ Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Develo
 
 📫 How to reach me - **ojasmaniyar25@gmail.com** / **https://linktr.ee/Ojasmaniyar**
 
-📄 View my PortFolio - **https://ojasmaniyar-portfolio.vercel.app**
+📄 View my PortFolio - **https://ojas-maniyar-portfolio.vercel.app**
 
 🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.8K+ Followers)*
 
