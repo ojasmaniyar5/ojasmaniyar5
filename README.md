@@ -97,7 +97,7 @@ Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Develo
 
 🔭 I’m currently working on - ***https://booksguide-portfolio.vercel.app/***
 
-🌱 I’m currently learning - *Python Full Stack Development*.
+🌱 I’m currently learning - *Python Full Stack Development & Dev Ops*.
 
 👨‍💻 All of my projects are available at - **https://github.com/ojasmaniyar5?tab=repositories**
 
@@ -106,16 +106,6 @@ Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Develo
 📄 View my PortFolio - **https://ojasmaniyar-portfolio.vercel.app**
 
 🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.8K+ Followers)*
-
-🔗 Twitter - **https://twitter.com/OjasManiyar25**
-
-🔗 Leetcode - **https://leetcode.com/ojasmaniyar25/**
-
-🔗 Hackerrank - **https://www.hackerrank.com/ojasmaniyar25**
-
-🔗 StackOverFlow - **https://stackoverflow.com/users/25405308/ojas-maniyar**
-
-🔗 Medium - **https://medium.com/@ojasmaniyar25**
 
 ------------------------------------------------------------------------------------------------------------------
 
