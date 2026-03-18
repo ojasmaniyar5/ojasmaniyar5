@@ -1,4 +1,4 @@
-# ***👋 Hey guys, I'm Ojas Maniyar😎.***
+# 👋 ***Hey guys, I'm Ojas Maniyar.***😎
 
 Analyst at eClerx || Passionate in **Cyber Security, Ethical Hacking** and **Python Full Stack Development** || **Tech Enthusiast || Lifelong Learner || Ex - Prodigy InfoTech || Ex - Prompt Personnel Private Limited.**
 
