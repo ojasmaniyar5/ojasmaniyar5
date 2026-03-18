@@ -42,30 +42,13 @@ Analyst at eClerx || Passionate in **Cyber Security, Ethical Hacking** and **Pyt
     - Secure coding practices.
     - Web application firewalls and security testing.
 
+
 **Soft Skills**
 1. Communication.
 2. Teamwork and collaboration.
 3. Problem-solving and debugging.
 4. Adaptability and continuous learning.
 5. Time management and organization.
-
-🏷️ ***EXPERIENCE*** :
-
-*Back-End Developer & Database Administrator*  
-    -BooksGuide Website (Current)  
-        - Develop and manage website functions, ensuring a smooth user experience.  
-        - Handle back-end coding and database systems to maintain efficient operations.
-        
-*Web Development Intern*  
-    -Prodigy InfoTech, CodSoft, and CodeAlpha (2024-2024)  
-        - Built and maintained websites using HTML, CSS, JavaScript, and PHP.  
-        - Added features, improved security, and optimized performance for faster loading.  
-        - Worked with MySQL and GitHub while collaborating with teams to deliver projects.  
-
-*Sales Associate*  
-    -T1, Prompt Personnel Private Limited (2022-2023)  
-        - Led marketing, team management, and customer support tasks, boosting sales and customer satisfaction.  
-        - Promoted products and ensured smooth daily operations with effective team coordination.  
 
 
 🔎 ***PROJECTS*** :
