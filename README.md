@@ -14,6 +14,7 @@ Analyst at eClerx || Passionate in **Cyber Security, Ethical Hacking** and **Pyt
 - To Seeking a marketing or entry-level position where my education and experience will be fully utilized with the ability to grow with the company and contribute my ideas and be mentored towards a successful career.
 - To secure a *enthusiastic* role in a dynamic Company that offers opportunities for professional growth and advancement.
 
+------------------------------------------------------------------------------------------------------------------
 
 🎗️ ***SKILLS*** :
 
@@ -50,6 +51,8 @@ Analyst at eClerx || Passionate in **Cyber Security, Ethical Hacking** and **Pyt
 4. Adaptability and continuous learning.
 5. Time management and organization.
 
+
+------------------------------------------------------------------------------------------------------------------
 
 🔎 ***PROJECTS*** :
 - Personal Portfolio.
