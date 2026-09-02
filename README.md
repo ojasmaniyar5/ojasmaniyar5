@@ -43,11 +43,11 @@ Networking Analyst at eClerx || Passionate in **Cyber Security, Ethical Hacking*
     - Secure coding practices.
     - Web application firewalls and security testing.
 8. Networking:
-    - TCP/IP, DNS & DHCP
-    - OSI & IP Addressing & Subnetting
-    - VPN & Network Security
-    - Firewall & Access Control
-    - Wi-Fi / Wireless Networking
+    - TCP/IP, DNS & DHCP.
+    - OSI & IP Addressing & Subnetting.
+    - VPN & Network Security.
+    - Firewall & Access Control.
+    - Wi-Fi / Wireless Networking.
 
 
 **Soft Skills**
