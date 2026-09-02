@@ -91,7 +91,7 @@ Networking Analyst at eClerx || Passionate in **Cyber Security, Ethical Hacking*
 
 📄 View my PortFolio - **https://ojas-maniyar-portfolio.vercel.app**
 
-🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.8K+ Followers)*
+🔗 Linkedin - **https://www.linkedin.com/in/ojasmaniyar25/**  *(500+ Connections / 1.9K+ Followers)*
 
 ------------------------------------------------------------------------------------------------------------------
 
